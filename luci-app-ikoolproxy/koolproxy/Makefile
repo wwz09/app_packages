@@ -11,7 +11,7 @@ define Package/koolproxy
   CATEGORY:=Multimedia
   DEPENDS:=@(aarch64||arm||i386||mips||mipsel||x86_64)
   TITLE:=koolproxy bin is from koolshare
-  URL:=https://github.com/houzi-/CDN
+  URL:=https://github.com/Black-Steel/CDN-koolproxy-20231122
 endef
 
 define Build/Compile
